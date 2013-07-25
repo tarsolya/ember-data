@@ -1,10 +1,10 @@
 {
-    "name": "components/ember-data",
+    "name": "tarsolya/ember-data",
     "description": "A data persistence library for Ember.js.",
     "type": "component",
     "license": "MIT",
     "require": {
-        "components/ember": "1.0.0-rc4"
+        "components/ember": "1.0.0-rc6"
     },
     "extra": {
         "component": {
